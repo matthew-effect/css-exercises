@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(236, 122, 141);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: rgb(54, 54, 233);
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+.uncoolClass {
+    background-color: rgb(117, 252, 117);
+    font-weight: bold;
+}
